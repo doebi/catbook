@@ -1,0 +1,2 @@
+cd /vagrant/catbook/
+uwsgi --ini wsgi.ini -d wsgi.log
